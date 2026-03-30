@@ -1,0 +1,7 @@
+API_KEY = "XXXXXXX"
+
+BASE_URL = "https://finnhub.io/api/v1"
+MIN_INTERVAL = 7
+MAX_RETRIES = 3
+SEARCH_LIMIT = 3
+REQUEST_TIMEOUT = 5
